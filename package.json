@@ -23,6 +23,5 @@
     "karma-phantomjs-launcher": "^1.0.4",
     "mocha": "^3.2.0",
     "watchify": "^3.9.0"
-  },
-  "private": "true"
+  }
 }
